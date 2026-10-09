@@ -1,0 +1,14 @@
+ 在最后面加：
+</body>
+</html>
+
+<!--
+
+或者
+
+<script type="text/javascript" src="Images/player.js">
+
+</body>
+</html>
+
+
